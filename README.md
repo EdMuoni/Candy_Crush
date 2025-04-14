@@ -1,3 +1,3 @@
-Candy_Crush
+Vajuta lingile!
 
-# [Candy Crush](https://youtu.be/8yIKZQMGi0A)
+# [Candy Crush](https://edmuoni.github.io/Candy_Crush/)
